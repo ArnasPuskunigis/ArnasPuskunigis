@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+My name is Arnas Puskunigis, I am a game developer that specialises in Unity, C#. I am observant, I analyse details of every game system I have experienced and ensure that I remember why that was fun or if I should avoid some of the mistakes they made. I am working on a 3D racing game about drifting and shooting. This will be the first PC game that I publish, it will be available on steam in April. I want to make high quality, polished games for a living.
+
+
 <!--
 **ArnasPuskunigis/ArnasPuskunigis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
