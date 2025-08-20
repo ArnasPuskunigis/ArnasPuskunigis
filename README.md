@@ -1,4 +1,4 @@
-My name is Arnas Puskunigis, I am a graduated game developer that specialises in Unity, C#. I am the Observer, I analyse every detail of every gameplay system I experience and why or how it was fun to me. Currently, I am working on Gunman Drift - a live 3D roguelike game about drifting and shooting [Gunman Drift on Steam](https://store.steampowered.com/app/3621150/Gunman_Drift/). My goal in life is to help bring high-quality games to the people.
+My name is Arnas Puskunigis, I am a graduated game developer that specialises in Unity, C#. I am the Observer, I analyse every detail of every gameplay system I experience and why or how it was fun to me. Currently, I am working on Gunman Drift - a live 3D roguelike game about drifting and shooting. [Gunman Drift Steam Page](https://store.steampowered.com/app/3621150/Gunman_Drift/). My goal in life is to help bring high-quality games to the people.
 
 
 <!--
