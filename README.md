@@ -1,37 +1,31 @@
 Arnas — Game Developer
 
-I’m a graduated game developer specializing in Unity and C#.
+I’m a graduate game developer specialising in Unity and C#.
 I am the Obeserver, I look at gameplay and reward systems as well as what makes mechanics genuinely fun, I tend to notice the fine details.
 
 Current Project — Gunman Drift
 Gunman Drift is a live 3D roguelike built around drifting and shooting.
 
 It focuses on:
-Smooth action mechanics
-Roguelike inspired replayability
-
-
+- Smooth 3D action gameplay mechanics
+- Roguelike inspired replayability
+- Live leaderboards
+- Engaging reward systems
+- Steam integration
 [Gunman Drift Steam Page](https://store.steampowered.com/app/3621150/Gunman_Drift/)
 
+At one point, the game had a racing only mode where players from around the world could join a single lobby (without port forwarding) and race, this was added for Meta Quest VR, Android, and Windows, this meant that all 3 platforms could join the same race together remotely without any of the shooting or customisation features functioning yet. This was removed as adding and testing features for all platforms was very time consuming and I wanted to add the game to Steam soon.
+[Gunman Drift Multiplayer showcase video](https://www.youtube.com/watch?v=VR1oaOKUCyM)
+
+
 What I Do Best
+- Gameplay systems design
+- Rapid prototyping in Unity
+- Iterative balancing and gameplay refinement
+- Breaking down existing games to understand why they are good in what they do
 
-Gameplay systems design
+My life goal is to create high-quality entertainment and lasting memories for the players.
 
-Rapid prototyping in Unity
-
-Clean and scalable C# architecture
-
-Iterative balancing and game feel refinement
-
-Breaking down existing games to understand why they work
-
-Long-Term Goal
-
-To create high-quality entertainment that gives people lasting memories.
-
-My name is Arnas, I am a graduate game developer and I specialise in Unity, C#.
-I am the Observer, I enjoy analysing details of gameplay systems and figuring out what makes them more or less fun and there is no detail that can slip past me.
-Currently, I am working on Gunman Drift - a live 3D roguelike game about drifting and shooting. [Gunman Drift Steam Page](https://store.steampowered.com/app/3621150/Gunman_Drift/). My goal in life is to bring high-quality entertainment and great memories to the people.
 
 
 <!--
