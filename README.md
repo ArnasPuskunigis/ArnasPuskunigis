@@ -1,4 +1,4 @@
-My name is Arnas, I am a graduated game developer that specialises in Unity, C#. I am the Observer, I analyse every detail of every gameplay system I experience and why or how it was fun to me. Currently, I am working on Gunman Drift - a live 3D roguelike game about drifting and shooting. [Gunman Drift Steam Page](https://store.steampowered.com/app/3621150/Gunman_Drift/). My goal in life is to help bring high-quality games to the people.
+My name is Arnas, I am a graduated game developer that specialises in Unity, C#. I am the Observer, I enjoy analysing details of gameplay systems and figuring out what makes them more or less fun. Currently, I am working on Gunman Drift - a live 3D roguelike game about drifting and shooting. [Gunman Drift Steam Page](https://store.steampowered.com/app/3621150/Gunman_Drift/). My goal in life is to bring high-quality entertainment and great memories to the people.
 
 
 <!--
