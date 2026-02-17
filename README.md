@@ -28,7 +28,7 @@ What I Wish to Improve
 - Code style consistency
 - Ammount of experience with different languages and frameworks
 
-My life goal is to create high-quality entertainment and lasting memories for the people.
+My life goal is to create high-quality, engaging games with hopefully lasting memories for the people.
 
 
 
