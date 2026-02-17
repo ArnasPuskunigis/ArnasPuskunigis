@@ -1,11 +1,11 @@
-Arnas — Game Developer
+**Arnas — Game Developer**
 
 I’m a graduate game developer specialising in Unity and C#.
 I am the Obeserver, I look at and analyse gameplay and reward systems as well as what makes mechanics genuinely fun, I tend to notice the fine details.
 
-Current Project — Gunman Drift - It is a live 3D roguelike built around drifting and shooting.
+Current Project — **Gunman Drift** - It is a live 3D roguelike built around drifting and shooting.
 
-It focuses on:
+**It focuses on:**
 - Smooth 3D action gameplay mechanics
 - Roguelike inspired replayability
 - Live leaderboards
@@ -17,13 +17,13 @@ At one point, the game had a racing only mode where players from around the worl
 [Gunman Drift Multiplayer showcase video](https://www.youtube.com/watch?v=VR1oaOKUCyM)
 
 
-What I Do Best
+**What I Do Best**
 - Gameplay systems design
 - Rapid prototyping in Unity
 - Iterative balancing and gameplay refinement
 - Breaking down existing games to understand why they are good in what they do
 
-What I Wish to Improve
+**What I Wish to Improve**
 - Ammount of professional experience
 - Code style consistency
 - Ammount of experience with different languages and frameworks
