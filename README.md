@@ -1,4 +1,4 @@
-**Arnas — Game Developer**
+**Arnas — Programmer/Game Developer**
 [Portfolio Website](https://arnaspuskunigis.github.io/portfolio/)
 
 I’m a graduate game developer specialising in Unity and C#. 
