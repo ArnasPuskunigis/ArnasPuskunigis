@@ -20,7 +20,7 @@ At one point, the game had a racing only mode where players from around the worl
 
 **What I Do Best**
 - Gameplay systems design
-- Rapid prototyping in Unity
+- Rapid prototyping
 - Iterative balancing and gameplay refinement
 - Breaking down existing games to understand why they are good in what they do
 
