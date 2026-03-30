@@ -1,5 +1,5 @@
 **Arnas — Programmer/Game Developer**
-[Portfolio Website](https://arnaspuskunigis.github.io/portfolio/)
+[Portfolio Website](https://arnaspuskunigis.github.io/portfolio/) [Itch.io page](https://i7arkness.itch.io/)
 
 I’m a graduate game developer specialising in Unity, C#, and C++. 
 I am the Obeserver, I analyse gameplay and reward systems to decide what makes them genuinely fun, I tend to notice the fine details.
