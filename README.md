@@ -4,7 +4,15 @@
 I’m a graduate game developer specialising in Unity, C#, and C++. 
 I am the Obeserver, I analyse gameplay and reward systems to decide what makes them genuinely fun, I tend to notice the fine details.
 
-Current Project — **Gunman Drift** - It is a live 3D roguelite built around drifting and shooting.
+Current focus - **AFO 2.0** - This is a C++ remake of a game I made 5 years ago with a friend in Unity using C#. [Repository](https://github.com/ArnasPuskunigis/AFO_2.0) And here is the [Original game](https://mazzs-games.itch.io/all-for-one)
+
+**Purpose is:**
+- What performance differences can I observe (FPS, Memory usage, Storage requirements, GPU and CPU usage)
+- Prove that I can work with C++ by creating something very specific.
+- Have something to do while on holiday (I used a Steam deck to build the foundations of this project)
+- Have a recent C++ portoflio piece which is not coursework.
+
+Main project — **Gunman Drift** - It is a live 3D roguelite built around drifting and shooting.
 
 **It focuses on:**
 - Smooth 3D action gameplay mechanics
