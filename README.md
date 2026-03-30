@@ -1,17 +1,18 @@
 **Arnas — Programmer/Game Developer**
 [Portfolio Website](https://arnaspuskunigis.github.io/portfolio/)
 
-I’m a graduate game developer specialising in Unity and C#. 
-I am the Obeserver, I look at and analyse gameplay and reward systems as well as what makes mechanics genuinely fun, I tend to notice the fine details.
+I’m a graduate game developer specialising in Unity, C#, and C++. 
+I am the Obeserver, I analyse gameplay and reward systems to decide what makes them genuinely fun, I tend to notice the fine details.
 
-Current Project — **Gunman Drift** - It is a live 3D roguelike built around drifting and shooting.
+Current Project — **Gunman Drift** - It is a live 3D roguelite built around drifting and shooting.
 
 **It focuses on:**
 - Smooth 3D action gameplay mechanics
-- Roguelike inspired replayability
+- Roguelite inspired replayability
 - Live leaderboards
 - Engaging reward systems
 - Steam integration
+
 [Gunman Drift Steam Page](https://store.steampowered.com/app/3621150/Gunman_Drift/)
 
 At one point, the game had a racing only mode where players from around the world could join a single lobby (without port forwarding) and race, this was added for Meta Quest VR, Android, and Windows, this meant that all 3 platforms could join the same race together remotely without any of the shooting or customisation features functioning yet. This was removed as adding and testing features for all platforms was very time consuming and I wanted to add the game to Steam soon. Regardless, I gained great experience from this endeavor and proved to myself that I can create anything.
@@ -27,9 +28,8 @@ At one point, the game had a racing only mode where players from around the worl
 **What I Wish to Improve**
 - Ammount of professional experience
 - Code style consistency
-- Ammount of experience with different languages and frameworks
 
-My life goal is to create high-quality, engaging games with hopefully lasting memories for the people.
+My life goal is to create high-quality and engaging games which give lasting memories for the people.
 
 
 
