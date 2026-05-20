@@ -9,7 +9,7 @@ Current focus - **AFO 2.0** - This is a no engine C++ remake of a game I made 5 
 - What performance differences can I observe (FPS, Memory usage, Storage requirements, GPU and CPU usage)
 - Prove that I can work with C++ by creating something very specific.
 - Have something to do while on holiday (I used a Steam deck to build the foundations of this project)
-- Have a recent C++ portoflio piece which is not coursework.
+- Create a C++ portoflio piece which is not coursework.
 
 Main project — **Gunman Drift** - It is a live 3D roguelite built around drifting and shooting.
 
