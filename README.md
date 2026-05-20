@@ -3,7 +3,7 @@
 
 I’m a graduate game developer specialising in Unity, C#, and C++. 
 
-Current focus - **AFO 2.0** - This is a C++ remake of a game I made 5 years ago with a friend in Unity using C#. [Repository](https://github.com/ArnasPuskunigis/AFO_2.0) And here is the [Original game](https://mazzs-games.itch.io/all-for-one)
+Current focus - **AFO 2.0** - This is a no engine C++ remake of a game I made 5 years ago with a friend using the Unity Game engine with C#. [Repository](https://github.com/ArnasPuskunigis/AFO_2.0) And here is the [Original game](https://mazzs-games.itch.io/all-for-one)
 
 **Purpose is:**
 - What performance differences can I observe (FPS, Memory usage, Storage requirements, GPU and CPU usage)
